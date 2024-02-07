@@ -1,10 +1,22 @@
+<div align="center">
+  <p>
+    <a align="center" href="" target="_blank">
+      <img
+        width="850"
+        src="https://github.com/TechXNairobi/Back2Basics-Python-for-ML-Series/blob/main/assets/techx_notebook_banner.png"
+      >
+    </a>
+  </p>
+  <br>
+  </div>
+
 # Back 2 Basics - Python for ML Series
 
-## 👋 hello
+## 👋 Hello
 
 Over the years we have created dozens of Python and ML tutorials. This repository contains examples and tutorials on python, ML models and techniques. Learn everything from old-school x, through y and z like f, to the latest q.
 
-## 🚀 tutorials (notebooks)
+## 🚀 Tutorials (notebooks)
 | **notebook** | **open in colab** | **complementary materials** | **Quiz / Exercise** |
 |:------------:|:-------------------------------------------------:|:---------------------------:|:----------------------:|
 | [Lesson 1: Python Fundermentals ](https://github.com/TechXNairobi/Back2Basics-Python-for-ML-Series/blob/main/Back2Basics-Week_1-Lesson_5-Functions-Python.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-rtmdet-object-detection-on-custom-data.ipynb) | [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/5kgWyo6Sg4E) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/open-mmlab/mmdetection) [![arXiv](https://img.shields.io/badge/arXiv-2212.07784-b31b1b.svg)](https://arxiv.org/abs/2212.07784)|
