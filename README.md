@@ -3,7 +3,7 @@
     <a align="center" href="" target="_blank">
       <img
         width="850"
-        src="https://github.com/TechXNairobi/Back2Basics-Python-for-ML-Series/blob/main/assets/techx_notebook_banner.png"
+        src="https://github.com/TechXAfrica/Back2Basics-Python-for-ML-Series/blob/main/assets/techxafrica.png"
       >
     </a>
   </p>
