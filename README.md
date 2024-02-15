@@ -14,7 +14,11 @@
 
 ## 👋 Hello
 
-Over the years we have created dozens of Python and ML tutorials. This repository contains examples and tutorials on python, ML models and techniques. Learn everything from old-school x, through y and z like f, to the latest q.
+Are you ready to gain the foundational skills you need to become a Python programmer? In this track, you'll learn the Python basics you need to start on your programming journey.
+
+Our hands-on and project-based Python Programming 
+
+In the end, you should have a grasp of how to program. By the time you've finished this course, you will be able to: * Read, write, and understand Python code. * Understand the basics of object-oriented programming (OOP). 
 
 ## 🚀 Tutorials (notebooks)
 | **notebook** | **open in colab** | **complementary materials** | **Quiz / Exercise** |
